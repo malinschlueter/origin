@@ -1,0 +1,3 @@
+install(error): /nfs/home/mschlue2/miniforge3/bin/dataset_collections_3/origin/Hallo (dataset) [Failed to clone from any candidate source URL. Encountered errors per each url were:
+- Hallo
+  CommandError: 'git -c diff.ignoreSubmodules=none -c core.quotepath=false clone --progress Hallo /nfs/home/mschlue2/miniforge3/bin/dataset_collections_3/origin/Hallo' failed with exitcode 128 [err: 'fatal: repository 'Hallo' does not exist']]
